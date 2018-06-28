@@ -9,4 +9,5 @@ A super basic scaffold structure for kickstarting new electron apps.
 
 ## To Get Started
 `npm install`
+
 `npm run start`
