@@ -6,6 +6,7 @@ A super basic scaffold structure for kickstarting new electron apps.
 * Renderer File, with a default form handler
 * Logic seperation across multiple files ("MVC-ish")
 * Electron-Reload for reloading on code change
+* Dynamic Configuration Model
 
 ## To Get Started
 `npm install`
